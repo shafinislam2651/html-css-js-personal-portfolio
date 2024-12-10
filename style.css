@@ -368,7 +368,7 @@ section {
     cursor: default;
  }
 
- /* PROJECTS SECTION */
+  /* PROJECTS SECTION */
 
  #projects {
     position: relative;
@@ -394,3 +394,6 @@ section {
     color: black;
     border-color: rgb(163, 163, 163 ) ;
  }
+
+/* CONTACT */
+
